@@ -1,0 +1,14 @@
+name: jnt
+
+services:
+
+  comfyui:
+    image: jervnorsk/jnt-comfyui:cu121
+    extends:
+      file: modules/comfyui-docker/cu121-megapak/docker-compose.yml
+      service: comfyui
+    build:
+      context: modules/comfyui-docker/cu121
+    volumes:
+      - ./storage:/home/runner
+    container_name: ''
