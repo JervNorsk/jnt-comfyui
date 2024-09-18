@@ -1,3 +1,6 @@
 [submodule "modules/comfyui-docker"]
 	path = modules/comfyui-docker
 	url = https://github.com/YanWenKun/ComfyUI-Docker.git
+[submodule "modules/comfyui-docker-sdf-webui"]
+	path = modules/comfyui-docker-sdf-webui
+	url = https://github.com/JervNorsk/stable-diffusion-webui-docker.git
