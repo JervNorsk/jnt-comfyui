@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ca42229f-a943-4ba2-95d7-066eaf4e8d7c" name="ComfyUI">
+        <fileTransfer mountedRoot="\\wsl$\ubuntu\home\dev\jnt-confyui\ComfyUI" accessType="MOUNT" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>

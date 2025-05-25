@@ -10,5 +10,10 @@ services:
     build:
       context: modules/comfyui-docker/cu121
     volumes:
-      - ./storage:/home/runner
+      - \\wsl.localhost\ubuntu\home\dev\jnt-confyui:/home/runner
+#      - G:\My Drive\Public\EldegarThundertale\assets\sdfs:/mnt/drive/eldegar_thundertale
+      - F:\Development\GitHub\projects\jnt:/mnt/jnt
+#      - ./storage:/home/runner
+#      - A:\Storage\AI\jnt-comfyui:/srv/dev/sda
+#      - D:\Storage\AI\jnt-comfyui\ComfyUI\models\checkpoints:/home/runner/ComfyUI/models/checkpoints
     container_name: ''

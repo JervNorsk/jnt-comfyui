@@ -1,0 +1,7 @@
+[tools]
+python = "3.13.1"
+uv = "0.5.24"
+
+[env]
+MISE_PYTHON_UV_VENV_AUTO = true
+_.python.venv = { path = ".venv", create = true }

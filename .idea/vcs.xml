@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/modules/comfyui-docker" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/modules/comfyui-docker-sdf-webui" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/modules/comfyui-suite" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/modules/comfyui-suite/libs/ltdrdata/impact-pack" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/modules/comfyui-suite/libs/ltdrdata/inspire-pack" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/modules/comfyui-suite/libs/pythongosssss/custom-scripts" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/modules/comfyui-suite/libs/pythongosssss/wd14-tagger" vcs="Git" />
+  </component>
+</project>
